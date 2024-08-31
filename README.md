@@ -39,7 +39,7 @@ O **fdf** (fil de fer) é um visualizador de mapas 3D que permite carregar e vis
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/SFzone42/fdf.git
+    git clone https://github.com/lhabacuc/fdf.git
     cd fdf
     ```
 
@@ -101,6 +101,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 📞 Contato
 
-- **GitHub**: [SFzone42](https://github.com/SFzone42)
+- **GitHub**: [lhabacuc](https://github.com/lhabacuc)
 - **Email**: liedsonnhabacuc@gmail.com.com
 
